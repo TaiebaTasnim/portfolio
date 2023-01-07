@@ -57,7 +57,7 @@ padding-right: 150px;
 }
 .blog-description{
       font-weight: 400;
-font-size: 20px;
+font-size: 16px;
 color: #444343;
 margin-bottom: 16px;
 padding-right: 150px;
@@ -66,7 +66,7 @@ padding-right: 150px;
 .para-list{
       margin-right: 100px;
       font-weight: 400;
-font-size: 20px;
+font-size: 16px;
 color: #444343;
 }
 .blog-text{
@@ -79,7 +79,7 @@ color: #444343;
 }
 .my-plan{
       margin-top: 130px;
-      margin-left: 230px;
+      margin-left: 180px;
 }
 
 .section-title{
@@ -118,7 +118,7 @@ color: #737272;
 }
 .mindset{
       margin-top: 130px;
-      margin-left: 170px;
+      margin-left: 150px;
       background: linear-gradient(90deg, #031c31 0%, rgba(1, 33, 59, 0) 100%),url("../images/watch.png");
       width: 1140px;
 height: 300px;
@@ -172,6 +172,10 @@ font-size: 40px;
 font-size: 24px;
 color: #444343;
 
+}
+.span{
+      color:#151414;
+      font-weight: 600;
 }
 .footer{
       display: flex;
