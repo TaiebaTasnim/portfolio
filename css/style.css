@@ -57,7 +57,7 @@ padding-right: 150px;
 }
 .blog-description{
       font-weight: 400;
-font-size: 16px;
+font-size: 20px;
 color: #444343;
 margin-bottom: 16px;
 padding-right: 150px;
@@ -66,7 +66,7 @@ padding-right: 150px;
 .para-list{
       margin-right: 100px;
       font-weight: 400;
-font-size: 16px;
+font-size: 20px;
 color: #444343;
 }
 .blog-text{
@@ -92,7 +92,7 @@ font-size: 40px;
  
 .plan-content{
       display: flex;
-      gap: 100px;
+      gap: 70px;
 }
 
 
@@ -116,4 +116,117 @@ font-size: 25px;
 padding-left: 30px;
 color: #737272;
 }
+.mindset{
+      margin-top: 130px;
+      margin-left: 170px;
+      background: linear-gradient(90deg, #031c31 0%, rgba(1, 33, 59, 0) 100%),url("../images/watch.png");
+      width: 1140px;
+height: 300px;
+opacity: 70%;
+}
+.mindset-title{
+      padding-left: 66px;
+      padding-top: 70px;
+      padding-right: 615px;
+      font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+}
+.mindset-btn{
+      width: 150px;     
+height: 54px;
+border-radius: 5px;
+font-weight: 200;
+font-size: 20px;
+border: 0;
+margin-left: 66px;
+margin-top: 15px;
+
+}
+.motivation{
+      margin-top: 130px;
+}
+.motivation-title{
+      text-align: center;
+      margin-bottom: 16px;
+      font-weight: 700;
+font-size: 40px;
+      
+
+}
+.motivation-description{
+      font-weight: 400;
+      font-size: 16px;
+      color: #444343; 
+      text-align: center;
+      margin-bottom: 30px;  
+}
+.motivational-quotes{
+      display: flex;
+      gap: 20px;
+      margin-left: 130px;
+      margin-right: 100px;
+}
+.quotes{
+      font-weight: 400;
+font-size: 24px;
+color: #444343;
+
+}
+.footer{
+      display: flex;
+      
+      margin-top: 130px;
+      width: 1600px;
+      height: 377px;
+      background: #151414;
+}
+.footer-content{
+      margin-top: 110px;
+      margin-left: 150px;
+}
+.title{
+      font-weight: 700;
+font-size: 35px;
+color: #F8F8F8;
+margin-bottom: 16px;
+
+}
+.description{
+      font-weight: 400;
+font-size: 16px;
+color: #F8F8F8;
+margin-bottom: 16px; 
+}
+.subscribe-content{
+      margin-top: 110px;
+      margin-right: 100px;
+      padding-left: 200px; 
+      
+}
+.form{
+      width: 350px;
+height: 50px;
+     
+border-radius: 5px;
+border:2px solid white;
+margin-bottom: 16px;
+background-color: #151414;;
+}
+.btn{
+      width: 150px;     
+      height: 54px;
+      border-radius: 5px;
+      font-weight: 200;
+      font-size: 20px;
+      border: 0;
+      background-color: rgb(23, 23, 209);   
+}
+.icons img{
+      margin-top: 16px;
+      padding-left: 4px;
+}
+
+
+
 
